@@ -1,6 +1,5 @@
-var throttle = require('lodash.throttle');
+// var throttle = require('lodash.throttle');
 
-const b = 3;
 // const iframe = document.querySelector('iframe');
 // const player = new Vimeo.Player(iframe);
 
