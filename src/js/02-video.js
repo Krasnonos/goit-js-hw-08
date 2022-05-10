@@ -9,3 +9,5 @@ player.on(
 );
 
 player.setCurrentTime(localStorage.getItem('videoplayer-current-time'));
+
+const a = 5;
